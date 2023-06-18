@@ -1,4 +1,7 @@
 config.yaml
+.vscode/*
+!.vscode/settings.json
+/vscode
 
 # Django #
 *.log
